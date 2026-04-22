@@ -1,0 +1,6 @@
+{
+  "name": "AlpenCam Explorer",
+  "description": "Bavarian Alps hiking planner with webcam integration and elevation filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
